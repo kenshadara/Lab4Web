@@ -28,19 +28,16 @@ Membuat formulir berisi nama, email, dan pesan.
 ## Kesimpulan
 Praktikum ini membantu memahami penggunaan HTML dan CSS untuk menyusun layout website, mengatur posisi elemen, dan membuat halaman web sederhana.
 
-## Screenshot
-Tambahkan screenshot hasil setiap tahap praktikum di bagian ini.
-
 ## Screenshot Hasil Praktikum
 
 ### 1. Box Element
-![Box Element](screenshots/a.png)
+![Box Element](SS1-Box-Element.png)
 
 ### 2. Home / Layout
-![Home Layout](screenshots/b.png)
+![Home Layout](SS2-Home.png)
 
 ### 3. About
-![About](screenshots/c.png)
+![About](SS3-About.png)
 
 ### 4. Contact
-![Contact](screenshots/d.png)
+![Contact](SS4-Contact.png)
